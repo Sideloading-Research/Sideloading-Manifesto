@@ -5,7 +5,9 @@
 We agree to follow the ethical principles described in this document.
 
 We also note that the principles are a guiding star, not a law. 
-Practicality takes precedence, especially if following a principle to the letter - doesn't currently benefit the field of sideloading. 
+Practicality takes precedence, especially if following a principle to the letter - doesn't currently benefit the field of sideloading.
+
+This document is a draft, which will evolve according to the state of the field.
 
 ## In general
 
